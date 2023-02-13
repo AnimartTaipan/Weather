@@ -1,0 +1,15 @@
+C:\Users\Хозяин\Desktop\Weather_Report-main\Weather_Report\bin\Debug\net6.0\Weather_Report.exe
+C:\Users\Хозяин\Desktop\Weather_Report-main\Weather_Report\bin\Debug\net6.0\Weather_Report.deps.json
+C:\Users\Хозяин\Desktop\Weather_Report-main\Weather_Report\bin\Debug\net6.0\Weather_Report.runtimeconfig.json
+C:\Users\Хозяин\Desktop\Weather_Report-main\Weather_Report\bin\Debug\net6.0\Weather_Report.dll
+C:\Users\Хозяин\Desktop\Weather_Report-main\Weather_Report\bin\Debug\net6.0\Weather_Report.pdb
+C:\Users\Хозяин\Desktop\Weather_Report-main\Weather_Report\obj\Debug\net6.0\Weather_Report.csproj.AssemblyReference.cache
+C:\Users\Хозяин\Desktop\Weather_Report-main\Weather_Report\obj\Debug\net6.0\Weather_Report.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Хозяин\Desktop\Weather_Report-main\Weather_Report\obj\Debug\net6.0\Weather_Report.AssemblyInfoInputs.cache
+C:\Users\Хозяин\Desktop\Weather_Report-main\Weather_Report\obj\Debug\net6.0\Weather_Report.AssemblyInfo.cs
+C:\Users\Хозяин\Desktop\Weather_Report-main\Weather_Report\obj\Debug\net6.0\Weather_Report.csproj.CoreCompileInputs.cache
+C:\Users\Хозяин\Desktop\Weather_Report-main\Weather_Report\obj\Debug\net6.0\Weather_Report.dll
+C:\Users\Хозяин\Desktop\Weather_Report-main\Weather_Report\obj\Debug\net6.0\refint\Weather_Report.dll
+C:\Users\Хозяин\Desktop\Weather_Report-main\Weather_Report\obj\Debug\net6.0\Weather_Report.pdb
+C:\Users\Хозяин\Desktop\Weather_Report-main\Weather_Report\obj\Debug\net6.0\Weather_Report.genruntimeconfig.cache
+C:\Users\Хозяин\Desktop\Weather_Report-main\Weather_Report\obj\Debug\net6.0\ref\Weather_Report.dll
